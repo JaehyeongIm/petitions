@@ -5,6 +5,6 @@
 * URL : http://konkukpetitions.com/
 ## Skils
 <p>
-<img src= "https://img.shields.io/badge/Spring%237F52FF.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Spring?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src= "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </p>
