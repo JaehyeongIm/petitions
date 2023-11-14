@@ -5,6 +5,6 @@
 * URL : http://konkukpetitions.com/
 
 ## Skil
-*Spring
-*AWS
-*HTML+CSS+JS
+* Spring
+* AWS
+* HTML+CSS+JS
