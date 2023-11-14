@@ -3,3 +3,8 @@
 청원을 받고 학교나 학생회 측이 이를 확인하여 처리를 한 뒤 학생들에게 결과를 알려주는 앱이 있으면 좋을 것 같다고 생각했습니다. 계속 만들고 있고, 어느정도 완성되면 학생회와 제휴를 맺는 것을 계획하고 있습니다.
 
 * URL : http://konkukpetitions.com/
+## Skils
+<p>
+<img src= "https://img.shields.io/badge/Spring%237F52FF.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+</p>
